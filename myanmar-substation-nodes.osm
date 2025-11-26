@@ -1,0 +1,2340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="libosmium/2.22.0">
+  <node id="648763447" version="1" lat="18.8537989" lon="94.2394072">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="2374600338" version="1" lat="16.4651892" lon="97.6536906">
+    <tag k="name" v="Ngan Tay Power Plant"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="3541427526" version="1" lat="16.7956932" lon="96.1569934">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="6694542687" version="1" lat="16.6452428" lon="97.6079813">
+    <tag k="name" v="မီးအားျမွင့္စက္"/>
+    <tag k="name:en" v="Transformer"/>
+    <tag k="name:my" v="မီးအားျမွင့္စက္"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="6694542708" version="1" lat="16.6365156" lon="97.6149881">
+    <tag k="name" v="မီးအားျမွင့္စက္"/>
+    <tag k="name:en" v="Transformer"/>
+    <tag k="name:my" v="မီးအားျမွင့္စက္"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="11137632374" version="1" lat="24.9993079" lon="97.3326626">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="11181840557" version="1" lat="22.3980564" lon="96.5077185">
+    <tag k="name" v="ဟိုခိုဓာတ်အားခွဲရုံ"/>
+    <tag k="name:my" v="ဟိုခိုဓာတ်အားခွဲရုံ"/>
+    <tag k="operator" v="စွမ်းအင်ဝန်ကြီးဌာန"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="11364673361" version="1" lat="21.9034466" lon="98.3661955">
+    <tag k="name" v="Mong Hsu"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364703921" version="1" lat="20.7946297" lon="96.3493988">
+    <tag k="name" v="T-1(New)"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364703922" version="1" lat="20.7944922" lon="96.3510142">
+    <tag k="name" v="T-2(New)"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728535" version="1" lat="20.3235827" lon="92.8378192">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Let pan bin yin"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728536" version="1" lat="20.4471965" lon="92.7769951">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kyauk son"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728537" version="1" lat="20.2808475" lon="92.8615178">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Pada leik"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728538" version="1" lat="20.4422304" lon="92.8706994">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kyauk pyin Seik"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728539" version="1" lat="20.3611734" lon="92.9929453">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Tha zi"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364728540" version="1" lat="20.4309817" lon="92.9364798">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Pauk taw byin"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364780625" version="1" lat="16.1032557" lon="94.3268833">
+    <tag k="name" v="NgaByeMa SS"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364806381" version="1" lat="24.7568663" lon="96.3658239">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MohNyin"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11364821492" version="1" lat="23.3626462" lon="94.3254607">
+    <tag k="name" v="MingMauk"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="11365041884" version="1" lat="19.7723582" lon="96.066079">
+    <tag k="ele" v="163.36"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV Sport SS"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="11365041890" version="1" lat="19.734085" lon="96.23472">
+    <tag k="ele" v="93.36"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(230/66/33/11)kV PMN"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="11365041891" version="1" lat="19.78846" lon="96.069596">
+    <tag k="ele" v="144.59"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+    <tag k="ref" v="(230/33/11)kV NPT-1"/>
+  </node>
+  <node id="11365054115" version="1" lat="19.667043" lon="96.1034386">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MPT SS"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+    <tag k="utility" v="power"/>
+  </node>
+  <node id="11866975165" version="1" lat="21.858391" lon="96.2292316">
+    <tag k="name" v="ရွှေစာရံခွဲရုံ (နွားခဲ)"/>
+    <tag k="operator" v="လျှပ်စစ်စွမ်းအားဝန်ကြီးဌာန"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="12079562192" version="1" lat="22.932597" lon="95.5726888">
+    <tag k="name" v="ဇီးကုန်းခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12582131142" version="1" lat="20.8504433" lon="94.6906005">
+    <tag k="name" v="တညောင်ပင်မ ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Tanyaung Primary Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12770516885" version="1" lat="21.9943041" lon="94.0375459">
+    <tag k="name" v="မြစ်သာဆည်ရေအားလျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12774606406" version="1" lat="20.0496203" lon="94.6814012">
+    <tag k="name" v="မင်းဘူးဆိုလာဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12803436240" version="1" lat="20.4784054" lon="94.2550814">
+    <tag k="name" v="မုန်းချောင်းခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="12829507065" version="1" lat="18.3560129" lon="96.4832976">
+    <tag k="name" v="လျှပ်စစ်ဓာတ်အားခွဲရုံ (ကညွတ်ကွင်းမြို့)"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-1" version="1" lat="19.555539" lon="97.3595067">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Baluchaung II Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000;132000;33000;11000"/>
+  </node>
+  <node id="-2" version="1" lat="20.7943571" lon="96.3482916">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-3" version="1" lat="21.6702713" lon="96.469648">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-4" version="1" lat="20.9892323" lon="95.97561">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="သပြေဝ (မိတ္ထီလာ) ခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-5" version="1" lat="20.6435204" lon="96.5921761">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kalaw Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="130MVA"/>
+    <tag k="start_date" v="1992-09-02"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000;66000;33000;11000"/>
+  </node>
+  <node id="-6" version="1" lat="16.4622459" lon="97.6281941">
+    <tag k="description" v="33/11KV Substation"/>
+    <tag k="operator" v="The Ministry of Electric Power"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-7" version="1" lat="21.6419066" lon="98.1033265">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MongNawng"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-8" version="1" lat="20.1291342" lon="94.9951655">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Magway"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-9" version="1" lat="21.8575664" lon="96.2312758">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Shwesaryan"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000;20000"/>
+  </node>
+  <node id="-10" version="1" lat="17.1843728" lon="95.0886001">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Athoke Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2007-03-03"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-11" version="1" lat="16.8042125" lon="94.7698177">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Pathein Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-12" version="1" lat="21.1877127" lon="94.8027957">
+    <tag k="barrier" v="fence"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kyunchaung"/>
+    <tag k="power" v="substation"/>
+    <tag k="source" v="Bing"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-13" version="1" lat="20.8595277" lon="96.0549631">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Thazi"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000"/>
+  </node>
+  <node id="-14" version="1" lat="21.6697112" lon="96.1540574">
+    <tag k="name" v="Belin"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-15" version="1" lat="21.9505653" lon="95.8770632">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Ohntaw"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-16" version="1" lat="22.096761" lon="95.1067094">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Nyaungbingyi"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;115000"/>
+  </node>
+  <node id="-17" version="1" lat="20.333039" lon="94.4188926">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-18" version="1" lat="16.9110752" lon="94.7648237">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-19" version="1" lat="20.0127064" lon="96.2525183">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Shwemyo Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="start_date" v="2009-04-20"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-20" version="1" lat="19.7347415" lon="96.2342845">
+    <tag k="barrier" v="fence"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name:en" v="Pyinmana substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="160 MVA"/>
+    <tag k="start_date" v="1988-05-28"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-21" version="1" lat="19.9957963" lon="95.5222163">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Taungdwingyi"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000"/>
+  </node>
+  <node id="-22" version="1" lat="19.7849242" lon="96.3327373">
+    <tag k="name" v="Paunglaung Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-23" version="1" lat="19.7563756" lon="96.5911665">
+    <tag k="name" v="Nancho Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-24" version="1" lat="18.7270042" lon="95.2295771">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ShweTaung"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-25" version="1" lat="19.426139" lon="96.2658255">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Thaephyu Primary Substation"/>
+    <tag k="name:en" v="Thaephyu substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="start_date" v="2007-12-24"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-26" version="1" lat="18.9040838" lon="96.4280135">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Taungoo Primary Substation"/>
+    <tag k="name:en" v="Taungoo substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="1963-06-15"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-27" version="1" lat="18.4206885" lon="96.3906284">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-28" version="1" lat="18.4201566" lon="96.3869249">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kabaung Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-29" version="1" lat="18.089533" lon="96.6379112">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Yharyargone Primary Substation"/>
+    <tag k="name:en" v="Taryargone substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2006-12-12"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000"/>
+  </node>
+  <node id="-30" version="1" lat="17.968809" lon="96.9344975">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Shwegyin Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substance" v="generation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;11000"/>
+  </node>
+  <node id="-31" version="1" lat="17.3367475" lon="96.518337">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kamarnat Primary Substation"/>
+    <tag k="name:en" v="Kamanat substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="160MVA"/>
+    <tag k="start_date" v="1995-07-01"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000;33000"/>
+  </node>
+  <node id="-32" version="1" lat="17.175904" lon="95.9817348">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-33" version="1" lat="16.9637899" lon="97.4082932">
+    <tag k="name" v="Thaton substation"/>
+    <tag k="name:en" v="Thaton substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-34" version="1" lat="17.997571" lon="95.7310092">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Minhla Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2013-04-31"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000"/>
+  </node>
+  <node id="-35" version="1" lat="16.8838364" lon="96.0054743">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Hlaingtharyar Primary Substation"/>
+    <tag k="name:en" v="Hlaingtharyar Primary Substation"/>
+    <tag k="name:my" v="လှိုင်သာယာ၂၃၀ kva ဓါတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="355 MVA"/>
+    <tag k="start_date" v="2006-06-16"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-36" version="1" lat="16.999415" lon="96.052983">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-37" version="1" lat="16.9812843" lon="96.1260298">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-38" version="1" lat="16.856398" lon="96.1009502">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-39" version="1" lat="16.7384427" lon="96.271219">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-40" version="1" lat="16.8125405" lon="96.2247762">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-41" version="1" lat="16.6033326" lon="94.9038232">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-42" version="1" lat="16.1813143" lon="94.7743504">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-43" version="1" lat="20.478575" lon="94.2549343">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-44" version="1" lat="21.1649791" lon="96.324605">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-45" version="1" lat="16.8594542" lon="94.847068">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Pathein Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2015-10-19"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-46" version="1" lat="16.8183054" lon="96.1314969">
+    <tag k="landuse" v="industrial"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-47" version="1" lat="19.7885323" lon="96.0703206">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Naypyitaw (1) Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="start_date" v="2008-09-21"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-48" version="1" lat="22.0247522" lon="96.1062449">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-49" version="1" lat="23.6372153" lon="96.1610413">
+    <tag k="location" v="indoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-50" version="1" lat="21.3797459" lon="95.3745235">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-51" version="1" lat="21.5211869" lon="94.4163771">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ချောင်းကူး (ပေါက်) ပင်မဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Chaunggu Primary Substation"/>
+    <tag k="name:my" v="ချောင်းကူး (ပေါက်) ပင်မဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="start_date" v="2012-02-27"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-52" version="1" lat="22.1502787" lon="95.1108328">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-53" version="1" lat="21.3555502" lon="95.0947721">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-54" version="1" lat="20.8678014" lon="94.8225966">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Chauk"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-55" version="1" lat="20.8507087" lon="94.6906797">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000;66000"/>
+  </node>
+  <node id="-56" version="1" lat="20.4619108" lon="94.2433359">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-57" version="1" lat="20.1770597" lon="94.8397344">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000;66000"/>
+  </node>
+  <node id="-58" version="1" lat="17.618347" lon="95.4456108">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-59" version="1" lat="19.5689129" lon="97.315602">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Baluchaung I Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000;11000"/>
+  </node>
+  <node id="-60" version="1" lat="21.5332237" lon="96.1681665">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-61" version="1" lat="21.5026595" lon="96.2490282">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-62" version="1" lat="21.5999133" lon="96.2115119">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-63" version="1" lat="21.9170646" lon="96.0805697">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-64" version="1" lat="21.9795055" lon="96.1345269">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000"/>
+  </node>
+  <node id="-65" version="1" lat="21.8798492" lon="96.3531034">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-66" version="1" lat="21.9835774" lon="96.4131845">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-67" version="1" lat="20.7941499" lon="96.3409492">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-68" version="1" lat="20.9163191" lon="97.7432765">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="နမ့်စန်ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Nansan Primary Substation"/>
+    <tag k="name:my" v="နမ့်စန်ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000;66000;11000"/>
+  </node>
+  <node id="-69" version="1" lat="20.5859053" lon="98.2924642">
+    <tag k="location" v="outdoor"/>
+    <tag k="name:en" v="Kengtawng Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000;11000"/>
+  </node>
+  <node id="-70" version="1" lat="22.554742" lon="96.0522478">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-71" version="1" lat="22.3473888" lon="96.3216315">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-72" version="1" lat="23.0664073" lon="95.7393007">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-73" version="1" lat="23.8014751" lon="95.9353355">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-74" version="1" lat="24.404136" lon="97.5021772">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-75" version="1" lat="16.4657445" lon="97.6547713">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name:en" v="Mawlamyine Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-76" version="1" lat="16.7762413" lon="94.7368505">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-77" version="1" lat="16.4715068" lon="97.667751">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Mawlamyine Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="200MVA"/>
+    <tag k="start_date" v="2013-01-20"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-78" version="1" lat="21.833998" lon="96.2267777">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Mee Thyaw Boke Sub-Transmission"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-79" version="1" lat="22.437268" lon="98.032221">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-80" version="1" lat="22.5069357" lon="98.3772386">
+    <tag k="name" v="Taangyaan Power Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-81" version="1" lat="21.6118211" lon="96.1307698">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-82" version="1" lat="21.4188424" lon="100.4411174">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-83" version="1" lat="24.2231723" lon="97.2474049">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;132000;66000"/>
+  </node>
+  <node id="-84" version="1" lat="21.4321117" lon="95.3919498">
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="Myingyan Substation (1)"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000;66000"/>
+  </node>
+  <node id="-85" version="1" lat="20.0495542" lon="94.6810167">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="မင်းဘူးဆိုလာဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-86" version="1" lat="16.6639773" lon="96.2663698">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-87" version="1" lat="16.6539104" lon="96.2696176">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-88" version="1" lat="16.8996139" lon="96.0885959">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-89" version="1" lat="16.7789722" lon="96.1313489">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-90" version="1" lat="16.8149782" lon="96.2246965">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-91" version="1" lat="21.9945351" lon="94.0375807">
+    <tag k="name" v="မြစ်သာဆည်ရေအားလျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-92" version="1" lat="21.668219" lon="96.1530595">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+  </node>
+  <node id="-93" version="1" lat="21.3846725" lon="95.3715386">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-94" version="1" lat="21.3894153" lon="95.3742262">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-95" version="1" lat="21.3855924" lon="95.3770004">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-96" version="1" lat="16.6801026" lon="98.3670325">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Myawady Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2019-03-19"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-97" version="1" lat="19.7522" lon="96.4326422">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Upper Paunglaung"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-98" version="1" lat="18.0857716" lon="96.4476691">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Yenwe Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="33000;11000"/>
+  </node>
+  <node id="-99" version="1" lat="19.4024657" lon="93.4967916">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kyaukphyu Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-100" version="1" lat="19.3978266" lon="93.49431">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-101" version="1" lat="17.7549001" lon="96.2011766">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Zaungtu Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-102" version="1" lat="18.7263477" lon="95.2283372">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-103" version="1" lat="18.9102056" lon="96.6160279">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Thauk Ye Khat 2 Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-104" version="1" lat="18.8988347" lon="96.2220084">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kabaung Hydroelectric Plant Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-105" version="1" lat="19.5442262" lon="97.3974547">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Baluchaung III Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-106" version="1" lat="20.432447" lon="96.7020075">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Tigyit Coal Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-107" version="1" lat="21.465502" lon="96.3805676">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-108" version="1" lat="21.5742186" lon="96.8718437">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="66000;11000"/>
+  </node>
+  <node id="-109" version="1" lat="21.3991193" lon="96.8966481">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="66000;11000"/>
+  </node>
+  <node id="-110" version="1" lat="21.4837888" lon="96.2611873">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-111" version="1" lat="20.3763654" lon="93.2657463">
+    <tag k="addr:city" v="မင်းပြား"/>
+    <tag k="addr:postcode" v="၀၇၀၉၁"/>
+    <tag k="addr:state" v="ရခိုင်ပြည်နယ်"/>
+    <tag k="addr:street" v="ခြိတ်တောင်လမ်း"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="မင်းပြား လျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Minbya Substation"/>
+    <tag k="name:my" v="မင်းပြား လျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transition"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-112" version="1" lat="20.3394961" lon="93.0140229">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ပုဏ္ဏားကျွန်း လျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Ponnarkyun Substation"/>
+    <tag k="name:my" v="ပုဏ္ဏားကျွန်း လျှပ်စစ်ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-113" version="1" lat="18.7585534" lon="94.2953204">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Taungup Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-114" version="1" lat="19.8059088" lon="94.0485949">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Ann Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="45 MVA"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-115" version="1" lat="19.8942723" lon="96.1538252">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Naypyitaw (2) Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100 MVA"/>
+    <tag k="start_date" v="2013-09-30"/>
+    <tag k="voltage" v="230000;33000;11000"/>
+  </node>
+  <node id="-116" version="1" lat="21.2597062" lon="99.6752134">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="ကျိုင်းတုံဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Kyine Tone Substation"/>
+    <tag k="name:my" v="ကျိုင်းတုံဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="125MVA"/>
+    <tag k="start_date" v="2020-06-19"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-117" version="1" lat="21.2601922" lon="99.6736126">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-118" version="1" lat="20.7479165" lon="97.0674095">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="တောင်ကြီးဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Taunggyi Primary Substation"/>
+    <tag k="name:my" v="တောင်ကြီးဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2017-04-30"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000;66000;11000"/>
+  </node>
+  <node id="-119" version="1" lat="18.7271858" lon="95.2303457">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-120" version="1" lat="18.7273848" lon="95.229021">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-121" version="1" lat="18.7269994" lon="95.2289419">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-122" version="1" lat="21.3494782" lon="95.1069663">
+    <tag k="name" v="ဗုဒ္ဓကုန်း ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Buddha Kon Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-123" version="1" lat="18.669558" lon="94.9958545">
+    <tag k="alt_name" v="Oke Shit Pin substation"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Oakshinpin Primary Substation"/>
+    <tag k="name:en" v="Oakshinpin Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="100MVA"/>
+    <tag k="start_date" v="2010-03-06"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-124" version="1" lat="23.6683268" lon="97.4563291">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Shweli I Hydroelectric Power Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-125" version="1" lat="20.7430589" lon="97.1456492">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="industrial"/>
+  </node>
+  <node id="-126" version="1" lat="22.9233286" lon="97.4186368">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Mansan Primary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="160MVA"/>
+    <tag k="start_date" v="2008-08-08"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000;11000"/>
+  </node>
+  <node id="-127" version="1" lat="19.6288132" lon="97.254707">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="LoikawPrimary Substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="110MVA"/>
+    <tag k="start_date" v="2015-03-31"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="132000;66000;33000;11000"/>
+  </node>
+  <node id="-128" version="1" lat="18.5078845" lon="96.3541122">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Phyu Hydroelectric Plant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-129" version="1" lat="16.4121022" lon="94.4611583">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-130" version="1" lat="16.8610493" lon="94.3976829">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-131" version="1" lat="23.4877721" lon="96.0113933">
+    <tag k="name" v="တကောင်းခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-132" version="1" lat="21.5044326" lon="94.3655096">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-133" version="1" lat="23.6944805" lon="98.8075135">
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="220000;110000"/>
+  </node>
+  <node id="-134" version="1" lat="17.5179804" lon="96.878936">
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-135" version="1" lat="16.4681752" lon="95.704423">
+    <tag k="location" v="outdoor"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-136" version="1" lat="21.6661906" lon="100.0219819">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="110000"/>
+  </node>
+  <node id="-137" version="1" lat="21.8458357" lon="99.8010459">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="110000"/>
+  </node>
+  <node id="-138" version="1" lat="21.6145994" lon="99.9106644">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="110000"/>
+  </node>
+  <node id="-139" version="1" lat="21.6757957" lon="100.0062221">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="110000"/>
+  </node>
+  <node id="-140" version="1" lat="22.0180393" lon="99.3035508">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-141" version="1" lat="23.2694693" lon="98.838171">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-142" version="1" lat="23.2427866" lon="98.8374301">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-143" version="1" lat="22.965307" lon="98.5515429">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-144" version="1" lat="23.4624129" lon="98.8593798">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-145" version="1" lat="21.3388726" lon="100.5598459">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-146" version="1" lat="21.5681791" lon="100.8446961">
+    <tag k="frequency" v="50"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-147" version="1" lat="20.4315563" lon="96.1352475">
+    <tag k="name" v="ခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-148" version="1" lat="22.2020786" lon="94.1256149">
+    <tag k="name" v="ဂန့်ဂေါခွဲရုံ"/>
+    <tag k="name:en" v="Gangaw Substation"/>
+    <tag k="name:my" v="ဂန့်ဂေါခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-149" version="1" lat="21.9229989" lon="97.8313264">
+    <tag k="name" v="KyeThi"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-150" version="1" lat="22.4345328" lon="98.7483545">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-151" version="1" lat="24.2266976" lon="97.2427556">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Bamaw Old"/>
+    <tag k="name:en" v="Bamaw Old"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-152" version="1" lat="25.4339537" lon="97.4423691">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-153" version="1" lat="17.3405604" lon="96.5158014">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-154" version="1" lat="16.103144" lon="94.3273988">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-155" version="1" lat="16.5173991" lon="94.3008632">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-156" version="1" lat="17.0395506" lon="94.7709365">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-157" version="1" lat="16.7696004" lon="94.7397136">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-158" version="1" lat="20.5853195" lon="93.2092138">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MraukU"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-159" version="1" lat="17.3315561" lon="95.1263457">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-160" version="1" lat="22.0475415" lon="95.11619">
+    <tag k="location" v="indoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-161" version="1" lat="24.2487512" lon="96.1968672">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Nabar substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-162" version="1" lat="22.6119363" lon="95.7352194">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-163" version="1" lat="21.351574" lon="98.0977864">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-164" version="1" lat="21.0912269" lon="98.0863535">
+    <tag k="name" v="KhoLam substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-165" version="1" lat="21.4042081" lon="94.1317445">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="66/11kV Kyaukhtu Sub-Station"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-166" version="1" lat="21.7046553" lon="94.0990313">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-167" version="1" lat="21.3789761" lon="93.9930631">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-168" version="1" lat="22.8653395" lon="94.4952433">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-169" version="1" lat="23.642869" lon="94.4074143">
+    <tag k="ele" v="113.04"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-5"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-170" version="1" lat="23.1303914" lon="94.0228711">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000;66000"/>
+  </node>
+  <node id="-171" version="1" lat="23.2059856" lon="94.2982812">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-172" version="1" lat="23.5415823" lon="94.0785524">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-173" version="1" lat="23.3052749" lon="95.3582645">
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+    <tag k="voltage" v="132000"/>
+  </node>
+  <node id="-174" version="1" lat="20.6002349" lon="96.0444099">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-175" version="1" lat="20.5995304" lon="96.0439633">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-176" version="1" lat="20.8736465" lon="92.5117036">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="BuThiDaung"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-177" version="1" lat="20.1436795" lon="92.876852">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Sittwe"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-178" version="1" lat="25.351429" lon="97.4416433">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-179" version="1" lat="21.170119" lon="94.804316">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-180" version="1" lat="23.9972412" lon="97.9123903">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Muse"/>
+    <tag k="name:en" v="Muse"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-181" version="1" lat="21.4791536" lon="94.4348451">
+    <tag k="name" v="66000 ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-182" version="1" lat="20.9252558" lon="96.6652411">
+    <tag k="name" v="Pindaya"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-183" version="1" lat="21.6185509" lon="95.5393134">
+    <tag k="name" v="66/11kV(10)MVA (Industry Plan S-S)"/>
+    <tag k="name:en" v="66/11kV(10)MVA (Industry Plan S-S)"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000;11000"/>
+  </node>
+  <node id="-184" version="1" lat="22.8024615" lon="97.5529601">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="generation"/>
+  </node>
+  <node id="-185" version="1" lat="23.130388" lon="96.6489988">
+    <tag k="name" v="မိုးမိတ် ခွဲရုံ"/>
+    <tag k="name:en" v="Moemeik Substation"/>
+    <tag k="name:my" v="မိုးမိတ် ခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-186" version="1" lat="22.9169988" lon="97.7206122">
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000;33000"/>
+  </node>
+  <node id="-187" version="1" lat="22.6790869" lon="95.3173213">
+    <tag k="name" v="ဒီပဲယင်းခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-188" version="1" lat="22.9325557" lon="95.5726966">
+    <tag k="name" v="ဇီးကုန်းခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-189" version="1" lat="22.0503742" lon="96.6267543">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-190" version="1" lat="22.1641698" lon="94.1493434">
+    <tag k="name" v="ဂန့်ဂေါခရိုင် လျှပ်စစ်ဓာတ်အားခွဲရုံး"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-191" version="1" lat="24.142124" lon="97.000298">
+    <tag k="name" v="ခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-192" version="1" lat="21.6865734" lon="95.712291">
+    <tag k="name" v="Myoh Thā Substation"/>
+    <tag k="name:en" v="Myoh Thā Substation"/>
+    <tag k="name:my" v="မြို့သာ ဓာတ်အားခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-193" version="1" lat="21.597221" lon="95.5111702">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="66/33/11kV(20)MVA+33/11kV(5)MVA (Kookae S-S)"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-194" version="1" lat="21.9847343" lon="99.6072776">
+    <tag k="barrier" v="wall"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-195" version="1" lat="21.2768852" lon="95.093208">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-196" version="1" lat="20.1178244" lon="96.2193848">
+    <tag k="name" v="ငွေတောင်ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="NgweTaung Sub-station"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-197" version="1" lat="20.5649618" lon="94.6314352">
+    <tag k="name" v="ခွဲရုံ"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-198" version="1" lat="21.2486196" lon="96.2121529">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-199" version="1" lat="20.025469" lon="96.2626611">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-200" version="1" lat="20.045711" lon="96.2305696">
+    <tag k="name" v="သရက်တောဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="ThaYetTaw Sub-station"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-201" version="1" lat="20.1176423" lon="96.2195544">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-202" version="1" lat="17.4770645" lon="96.4546558">
+    <tag k="construction:power" v="substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-203" version="1" lat="20.8054933" lon="95.0170359">
+    <tag k="name" v="ဂွေးချို (၆၆) ကေဗွီ ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Gwaycho 66kV Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-204" version="1" lat="16.3562535" lon="97.551574">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-205" version="1" lat="14.082652" lon="98.2075897">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-206" version="1" lat="16.4642048" lon="97.6508163">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-207" version="1" lat="15.9715481" lon="97.7310572">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-208" version="1" lat="20.9438817" lon="95.7859338">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-209" version="1" lat="16.9386558" lon="96.0503474">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-210" version="1" lat="16.9400291" lon="96.0481586">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-211" version="1" lat="16.9504008" lon="96.2782411">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-212" version="1" lat="16.9317014" lon="96.5749503">
+    <tag k="fixme" v="name"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-213" version="1" lat="21.4524716" lon="96.3702015">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-214" version="1" lat="20.814453" lon="97.0328365">
+    <tag k="name" v="ဂွေးချို (၆၆) ကေဗွီ ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Gwaycho 66kV Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-215" version="1" lat="24.4188857" lon="97.408666">
+    <tag k="name" v="ဂွေးချို (၆၆) ကေဗွီ ဓာတ်အားခွဲရုံ"/>
+    <tag k="name:en" v="Gwaycho 66kV Substation"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-216" version="1" lat="16.5543132" lon="98.2391632">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-217" version="1" lat="21.8611207" lon="96.1589669">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-218" version="1" lat="23.210574" lon="95.5148909">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-219" version="1" lat="20.4891967" lon="92.7600841">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="RatheDaung"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-220" version="1" lat="21.1503749" lon="94.1568909">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-221" version="1" lat="18.7794699" lon="95.2439772">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-222" version="1" lat="18.9625043" lon="96.303041">
+    <tag k="construction:substation" v="transmission"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-223" version="1" lat="19.67128" lon="96.1036718">
+    <tag k="ele" v="113.04"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-5"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-224" version="1" lat="19.6340871" lon="97.5122896">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-225" version="1" lat="20.8675334" lon="96.3897263">
+    <tag k="name" v="Apache"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-226" version="1" lat="16.8244157" lon="96.168209">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-227" version="1" lat="16.6976151" lon="98.4580947">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-228" version="1" lat="21.180754" lon="94.8943093">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-229" version="1" lat="22.6267413" lon="97.3024232">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-230" version="1" lat="21.2576558" lon="97.6582422">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-231" version="1" lat="19.3288842" lon="94.1344026">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-232" version="1" lat="20.7816377" lon="97.027021">
+    <tag k="name" v="TaungGyi"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-233" version="1" lat="19.1666567" lon="97.3431031">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-234" version="1" lat="19.6917384" lon="96.1321106">
+    <tag k="ele" v="103.93"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-12"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-235" version="1" lat="18.9741828" lon="95.1406216">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-236" version="1" lat="20.3461204" lon="97.9982133">
+    <tag k="name" v="Langkhe"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-237" version="1" lat="25.3899799" lon="97.3886815">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MyitKyiNa"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-238" version="1" lat="16.857215" lon="96.0836662">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-239" version="1" lat="16.6704349" lon="97.7421979">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-240" version="1" lat="23.4269929" lon="97.9426256">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-241" version="1" lat="19.0942441" lon="93.8523804">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-242" version="1" lat="19.3483812" lon="93.5467704">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-243" version="1" lat="18.2734283" lon="95.3079891">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-244" version="1" lat="20.6507391" lon="96.6303998">
+    <tag k="name" v="AungPan"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-245" version="1" lat="19.3649406" lon="93.6649321">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-246" version="1" lat="19.1104881" lon="95.1795867">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-247" version="1" lat="25.3178519" lon="96.936504">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MoGaung"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-248" version="1" lat="20.5250541" lon="97.8660811">
+    <tag k="name" v="MongNel"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-249" version="1" lat="21.8942448" lon="95.6032967">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="YwaThit"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-250" version="1" lat="16.9472214" lon="97.7054127">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-251" version="1" lat="23.826368" lon="97.6527921">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="NamHkan"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-252" version="1" lat="16.8564885" lon="96.1241019">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-253" version="1" lat="21.7279935" lon="95.4345006">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="SeMeeKhone-1"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-254" version="1" lat="20.8274518" lon="92.3984615">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MaungDaw"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-255" version="1" lat="21.8969771" lon="95.7310035">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="KyaukTalone"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-256" version="1" lat="21.9252349" lon="94.3478289">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-257" version="1" lat="19.3544581" lon="95.2215725">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-258" version="1" lat="25.0084652" lon="96.5592151">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Hopin"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-259" version="1" lat="24.7594208" lon="96.3584343">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-260" version="1" lat="20.7614393" lon="97.057644">
+    <tag k="name" v="TaungGyi"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-261" version="1" lat="25.6278119" lon="96.3453559">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="HpaKant"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-262" version="1" lat="18.8946169" lon="97.31765">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-263" version="1" lat="16.861269" lon="97.6421842">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-264" version="1" lat="19.8874318" lon="96.1529499">
+    <tag k="name" v="Ss 11"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-265" version="1" lat="24.6068474" lon="97.4571342">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Dawth PoneYan"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-266" version="1" lat="21.1776361" lon="96.3274059">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-267" version="1" lat="16.9199877" lon="96.0612786">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-268" version="1" lat="14.6110112" lon="98.0316971">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-269" version="1" lat="21.6134494" lon="93.4400413">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-270" version="1" lat="19.3058086" lon="95.1815484">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-271" version="1" lat="19.7520116" lon="96.1103515">
+    <tag k="ele" v="151.37"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-1"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-272" version="1" lat="21.3415375" lon="99.0256937">
+    <tag k="name:en" v="Mine Pyin Substation"/>
+    <tag k="note" v="check again when imagery updated"/>
+    <tag k="power" v="substation"/>
+    <tag k="rating" v="60MVA"/>
+    <tag k="start_date" v="2020-06-04"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="230000"/>
+  </node>
+  <node id="-273" version="1" lat="19.7488596" lon="96.0819189">
+    <tag k="ele" v="133.98"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-6"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-274" version="1" lat="20.9118502" lon="97.557828">
+    <tag k="name" v="Loilem"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-275" version="1" lat="17.8449693" lon="96.6861135">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-276" version="1" lat="19.7144995" lon="96.1190035">
+    <tag k="ele" v="113.49"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-4"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-277" version="1" lat="19.9982293" lon="94.4483084">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-278" version="1" lat="19.904049" lon="96.2043245">
+    <tag k="name" v="GE Substation"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-279" version="1" lat="20.8338645" lon="94.7571633">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-280" version="1" lat="20.4714727" lon="94.2086952">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-281" version="1" lat="20.4178361" lon="94.25485">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-282" version="1" lat="22.0708261" lon="94.3408977">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-283" version="1" lat="22.3806809" lon="94.9969412">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-284" version="1" lat="19.7636141" lon="96.1003728">
+    <tag k="ele" v="156.17"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-3"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-285" version="1" lat="18.9089218" lon="95.5428194">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-286" version="1" lat="21.3046528" lon="98.4181721">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-287" version="1" lat="18.5364626" lon="94.9178266">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-288" version="1" lat="19.9884959" lon="96.2525576">
+    <tag k="name" v="33KV Main D/S (News)"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-289" version="1" lat="19.9312058" lon="95.0151407">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-290" version="1" lat="25.3833026" lon="97.3062759">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="MyitKyiNa_3"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-291" version="1" lat="16.7757859" lon="96.1811601">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-292" version="1" lat="19.4275407" lon="93.5465808">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-293" version="1" lat="21.3314713" lon="95.0573779">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-294" version="1" lat="18.4072333" lon="95.1882886">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-295" version="1" lat="19.8634098" lon="96.1836391">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-296" version="1" lat="21.599063" lon="97.530465">
+    <tag k="name" v="Mong Kung"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-297" version="1" lat="19.630972" lon="96.1151256">
+    <tag k="ele" v="100.06"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV LAWE SS"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-298" version="1" lat="21.6364483" lon="95.4282204">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="SeMeeKhone-2"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-299" version="1" lat="16.864899" lon="96.1425972">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-300" version="1" lat="20.7299978" lon="94.7432125">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-301" version="1" lat="19.8774087" lon="96.2463526">
+    <tag k="name" v="33KV Main D/S (Zayar)"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="33000"/>
+  </node>
+  <node id="-302" version="1" lat="22.9122328" lon="96.4665986">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-303" version="1" lat="22.3794139" lon="95.1363259">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-304" version="1" lat="17.5943795" lon="94.5761016">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-305" version="1" lat="21.1249092" lon="94.8567807">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-306" version="1" lat="20.3373217" lon="94.4695095">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-307" version="1" lat="20.8350688" lon="92.977483">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="Kyauk Taw"/>
+    <tag k="operator" v="Department of Power Transmission and System Control"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="utility" v="power"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-308" version="1" lat="18.7092284" lon="94.9885347">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-309" version="1" lat="19.7721575" lon="96.0661378">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-310" version="1" lat="21.379332" lon="95.3930751">
+    <tag k="name" v="ခွဲရုံနေရာ"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+  </node>
+  <node id="-311" version="1" lat="24.1917966" lon="96.8039406">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+  </node>
+  <node id="-312" version="1" lat="21.7808459" lon="95.4651456">
+    <tag k="name" v="66/11kV substation"/>
+    <tag k="power" v="substation"/>
+    <tag k="voltage" v="66000;11000"/>
+  </node>
+  <node id="-313" version="1" lat="24.9849935" lon="97.5956763">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-314" version="1" lat="22.6448287" lon="93.5910856">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-315" version="1" lat="19.6446934" lon="96.0961748">
+    <tag k="ele" v="120.17"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV Industrial SS"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-316" version="1" lat="20.6022154" lon="97.0624705">
+    <tag k="name" v="NaungKar"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-317" version="1" lat="23.1845789" lon="94.0671801">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-318" version="1" lat="19.7038209" lon="96.1030053">
+    <tag k="ele" v="131.5"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV SS-7"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-319" version="1" lat="19.6133183" lon="96.2422891">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="(33/11)kV Alar SS"/>
+    <tag k="name:en" v="(33/11)kV Alar SS"/>
+    <tag k="operator" v="Electricity Supply Enterprise"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-320" version="1" lat="25.4333871" lon="97.4063932">
+    <tag k="location" v="outdoor"/>
+    <tag k="name" v="BuKha"/>
+    <tag k="name:en" v="BuKha"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="transmission"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-321" version="1" lat="20.4706265" lon="96.94197">
+    <tag k="name" v="InnLay Hotel Zone"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-322" version="1" lat="23.3117926" lon="97.9715763">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-323" version="1" lat="16.8237002" lon="96.121619">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-324" version="1" lat="18.3057319" lon="95.1863379">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-325" version="1" lat="18.4466998" lon="94.3484201">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-326" version="1" lat="20.7832022" lon="96.9820333">
+    <tag k="name" v="AyeTharYar"/>
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="distribution"/>
+    <tag k="voltage" v="66000"/>
+  </node>
+  <node id="-327" version="1" lat="19.902315" lon="96.0224788">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-328" version="1" lat="22.2450488" lon="97.1033744">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-329" version="1" lat="23.1119128" lon="97.3934886">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-330" version="1" lat="22.7805981" lon="97.5351308">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-331" version="1" lat="22.7804443" lon="97.5354079">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-332" version="1" lat="23.249898" lon="96.0201526">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-333" version="1" lat="20.1264522" lon="94.8906089">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-334" version="1" lat="20.9781636" lon="96.0125998">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-335" version="1" lat="20.9832391" lon="96.0175725">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-336" version="1" lat="20.8821665" lon="96.0354218">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-337" version="1" lat="18.6406788" lon="94.3732971">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-338" version="1" lat="22.3810775" lon="94.9835528">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-339" version="1" lat="16.8790043" lon="97.5869697">
+    <tag k="power" v="substation"/>
+    <tag k="substation" v="industrial"/>
+  </node>
+  <node id="-340" version="1" lat="25.6763502" lon="97.5377654">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-341" version="1" lat="21.9677108" lon="95.080237">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-342" version="1" lat="16.8654111" lon="96.1810688">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-343" version="1" lat="16.4787862" lon="97.6755138">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-344" version="1" lat="19.3338369" lon="94.7354273">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-345" version="1" lat="16.9107459" lon="94.9041235">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-346" version="1" lat="18.8286653" lon="95.2660133">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-347" version="1" lat="18.5323712" lon="95.0123072">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-348" version="1" lat="21.2867194" lon="99.572912">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-349" version="1" lat="19.9956336" lon="94.5122181">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-350" version="1" lat="20.8305207" lon="95.1091563">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-351" version="1" lat="22.921473" lon="93.6735504">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-352" version="1" lat="23.2849" lon="96.6426218">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-353" version="1" lat="21.8234072" lon="96.2266774">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-354" version="1" lat="19.7297085" lon="94.8298708">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-355" version="1" lat="25.1270788" lon="97.7776687">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-356" version="1" lat="20.8104405" lon="96.1697767">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-357" version="1" lat="16.4192441" lon="97.6200172">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-358" version="1" lat="16.4343884" lon="97.6515247">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-359" version="1" lat="23.6847386" lon="98.781967">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-360" version="1" lat="22.9670791" lon="97.7554575">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-361" version="1" lat="22.9362943" lon="97.7621943">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-362" version="1" lat="21.5603342" lon="95.3792097">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-363" version="1" lat="22.4819043" lon="95.1686021">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-364" version="1" lat="22.4387191" lon="95.6735308">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-365" version="1" lat="22.4638914" lon="94.9730972">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-366" version="1" lat="20.4762818" lon="94.8908502">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-367" version="1" lat="21.0903409" lon="96.0231518">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-368" version="1" lat="20.2044529" lon="95.0261672">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-369" version="1" lat="17.3136083" lon="97.019128">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-370" version="1" lat="16.9059243" lon="96.2224583">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-371" version="1" lat="18.4853441" lon="95.5107631">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-372" version="1" lat="17.1353325" lon="96.0032749">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-373" version="1" lat="16.883777" lon="96.2002828">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-374" version="1" lat="16.8027429" lon="96.1863857">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-375" version="1" lat="13.8374548" lon="98.271636">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-376" version="1" lat="14.2623709" lon="98.214483">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-377" version="1" lat="13.9788655" lon="98.1208126">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-378" version="1" lat="13.7006086" lon="98.1686763">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-379" version="1" lat="13.6942049" lon="98.3729808">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-380" version="1" lat="22.0172526" lon="96.0972073">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-381" version="1" lat="22.5321534" lon="97.0497584">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-382" version="1" lat="21.9694462" lon="96.1212622">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-383" version="1" lat="21.9135621" lon="96.1226593">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-384" version="1" lat="22.4394348" lon="96.9605469">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-385" version="1" lat="21.9882065" lon="96.0632455">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-386" version="1" lat="20.4121807" lon="96.7038245">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-387" version="1" lat="19.8659623" lon="97.0044996">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-388" version="1" lat="23.6558154" lon="97.8268813">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-389" version="1" lat="21.2611023" lon="96.3146428">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-390" version="1" lat="16.554314" lon="98.239172">
+    <tag k="destroyed:substation" v="distribution"/>
+    <tag k="location" v="outdoor"/>
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-391" version="1" lat="19.8639821" lon="93.7689389">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-392" version="1" lat="22.1287896" lon="95.1727728">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-393" version="1" lat="21.4573246" lon="95.3922205">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-394" version="1" lat="20.119948" lon="94.9434191">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-395" version="1" lat="19.9572004" lon="95.2671475">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-396" version="1" lat="19.7145239" lon="95.3887767">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-397" version="1" lat="20.7306874" lon="95.2429252">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-398" version="1" lat="22.9621008" lon="97.160566">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-399" version="1" lat="23.2494847" lon="97.1224657">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-400" version="1" lat="24.2139802" lon="96.1406178">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-401" version="1" lat="22.9416824" lon="97.7418667">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-402" version="1" lat="22.5486894" lon="95.9999324">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-403" version="1" lat="22.765895" lon="95.4277633">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-404" version="1" lat="22.7359203" lon="95.7593662">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-405" version="1" lat="22.6960281" lon="96.014294">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-406" version="1" lat="15.2502388" lon="97.8528216">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-407" version="1" lat="14.1647938" lon="98.4445237">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-408" version="1" lat="16.8573792" lon="96.4496379">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-409" version="1" lat="16.8638291" lon="96.1553064">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-410" version="1" lat="16.7740489" lon="96.1422231">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-411" version="1" lat="16.8270106" lon="96.2706872">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-412" version="1" lat="16.873415" lon="96.1026402">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-413" version="1" lat="16.8128769" lon="96.2579047">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-414" version="1" lat="16.2798686" lon="95.6821365">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-415" version="1" lat="16.760759" lon="94.7576209">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-416" version="1" lat="18.2667727" lon="94.4661281">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-417" version="1" lat="16.8888928" lon="96.1319924">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-418" version="1" lat="16.9254722" lon="96.3309202">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-419" version="1" lat="16.8934556" lon="96.0643815">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-420" version="1" lat="16.9351684" lon="96.0764098">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-421" version="1" lat="16.9226203" lon="96.1760222">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-422" version="1" lat="17.5538618" lon="95.899457">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-423" version="1" lat="17.5046288" lon="95.8505745">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-424" version="1" lat="17.1966347" lon="96.1728179">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-425" version="1" lat="16.9625535" lon="96.0791603">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-426" version="1" lat="17.9476953" lon="96.7208931">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-427" version="1" lat="17.7489694" lon="95.775589">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-428" version="1" lat="19.076464" lon="96.3619985">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-429" version="1" lat="18.7244557" lon="96.5247907">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-430" version="1" lat="18.4621923" lon="96.4359848">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-431" version="1" lat="19.6511875" lon="97.2045827">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-432" version="1" lat="19.8268807" lon="96.1465724">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-433" version="1" lat="19.7643641" lon="96.173822">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-434" version="1" lat="21.3632734" lon="96.1637841">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-435" version="1" lat="21.8995048" lon="96.1035591">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-436" version="1" lat="21.9003786" lon="96.0322488">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-437" version="1" lat="22.0191791" lon="96.4900701">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-438" version="1" lat="21.8131215" lon="95.9728141">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-439" version="1" lat="22.3228433" lon="96.2545935">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-440" version="1" lat="21.8859085" lon="96.1272259">
+    <tag k="power" v="substation"/>
+  </node>
+  <node id="-441" version="1" lat="22.2087446" lon="96.105323">
+    <tag k="power" v="substation"/>
+  </node>
+</osm>
